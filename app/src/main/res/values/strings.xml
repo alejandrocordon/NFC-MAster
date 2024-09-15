@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NFC Master</string>
+    <string name="service_name">NFC Service</string>
+    <string name="aid_group_description">NFC AID Group</string>
 </resources>
