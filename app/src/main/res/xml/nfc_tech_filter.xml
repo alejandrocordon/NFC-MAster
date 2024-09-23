@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lista de tecnologías NFC que la aplicación puede manejar -->
+    <tech-list>
+        <tech>android.nfc.tech.NfcA</tech>
+    </tech-list>
+</resources>

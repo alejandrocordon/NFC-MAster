@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">NFC Master</string>
+    <string name="app_name">NFC App</string>
+    <string name="serial_number">Serial Number:</string>
+    <string name="supported_technologies">Supported Technologies:</string>
+    <string name="additional_info">Additional Information:</string>
+    <string name="error_reading_tag">Could not read NFC tag</string>
+    <string name="empty_state_message">Bring an NFC tag close to the device to read its information.</string>
+    <string name="nfc_tag_info">NFC Tag Information</string>
+    <string name="read">Read</string>
+    <string name="nfc_not_supported">The device does not support NFC.</string>
+    <string name="nfc_disabled">NFC is disabled. Please enable it.</string>
     <string name="service_name">NFC Service</string>
     <string name="aid_group_description">NFC AID Group</string>
 </resources>
